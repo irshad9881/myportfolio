@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1475a1b7.css",
+    "main.js": "/static/js/main.d0fe05ca.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/cvof2003.pdf": "/static/media/cvof2003.b2bd254b591101bf37d3.pdf",
+    "static/media/img.jpg": "/static/media/img.c7e74cf5e5838d27b180.jpg",
+    "index.html": "/index.html",
+    "main.1475a1b7.css.map": "/static/css/main.1475a1b7.css.map",
+    "main.d0fe05ca.js.map": "/static/js/main.d0fe05ca.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1475a1b7.css",
+    "static/js/main.d0fe05ca.js"
+  ]
+}
